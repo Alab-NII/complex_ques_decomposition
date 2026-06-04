@@ -1,10 +1,11 @@
 This is the GitHub repo for the paper: [Identifying Where Large Language Models Struggle in Answering
-Complex Questions]()
+Complex Questions]
 
 ## Reproduction of Results
 
-- download [data]()
-- download [outputs]()
+- download [data](https://www.dropbox.com/scl/fi/u5gjqlrvm4o52eosqdy6f/data.zip?rlkey=7x7sul4fbm80edn1gd8c514b4&st=lxg28ngp&dl=0)
+- download [outputs](https://www.dropbox.com/scl/fi/oup8ldgdcd5n6gv6aqwei/outputs.zip?rlkey=8yuw2i259rt1ygsikwsein4tf&st=esw6nccv&dl=0)
+
 
 ### Table 1: Automatic and human scores (green) in the decomposition stage
 ```bash
